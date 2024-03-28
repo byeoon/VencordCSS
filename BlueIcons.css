@@ -14,10 +14,3 @@ transition: color 0.2s ease;
 .unread__48cf4 {
   background-color: #70a9e6;
 }
-
-/*
- people may not like this one, remove if wanted
- */
-.link_ddbb36 { 
-  background-color: rgba(0,0,20, 0.05);
-}
