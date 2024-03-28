@@ -1,0 +1,23 @@
+/*
+  Created by byeoon
+*/
+
+svg, .lottieIcon__9d8ab, .lottieIcon_c7076c, .icon__67ab4, .iconContainer__6a580, .link_ddbb36 {
+  color: #70a9e6;
+}
+
+svg:hover, .lottieIcon__9d8ab:hover, .lottieIcon_c7076c:hover {
+color: #1114ad;
+transition: color 0.2s ease;
+}
+
+.unread__48cf4 {
+  background-color: #70a9e6;
+}
+
+/*
+ people may not like this one, remove if wanted
+ */
+.link_ddbb36 { 
+  background-color: rgba(0,0,20, 0.05);
+}
