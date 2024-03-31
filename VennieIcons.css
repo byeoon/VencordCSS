@@ -4,6 +4,7 @@
 
 svg, .lottieIcon__9d8ab, .lottieIcon_c7076c, .icon__67ab4, .iconContainer__6a580, .link_ddbb36 {
   background-image: url("https://media.discordapp.net/stickers/1217112512374505613.png");
+  background-size: 16px;
 }
 
 svg:hover, .lottieIcon__9d8ab:hover, .lottieIcon_c7076c:hover {
@@ -13,4 +14,5 @@ transition: color 0.2s ease;
 
 .unread__48cf4 {
   background-image: url("https://media.discordapp.net/stickers/1217112512374505613.png");
+  background-size: 12px;
 }
